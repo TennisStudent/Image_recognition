@@ -1,0 +1,72 @@
+.heading_div img
+{
+    width: 100px;
+    height: 100px;
+}
+body
+{
+    background-color: #FFE2E2;
+    font-family: 'Lusitana', serif;
+    font-weight: 50px;
+}
+.heading_div
+{
+    background-color: white;
+    color:rgb(127, 178, 255);   
+}
+.main_div
+{
+    background-color: #FFC9C9;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+.main_div label
+{
+    background: white;
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 3px 3px 18px white;
+}
+#camera, #result
+{
+    border: 2px solid white;
+    width: 300px;
+    height: 300px;
+    box-shadow: 3px 3px 18px white;
+}
+.main_div button
+{
+    width: 300px;
+    border: 2px solid white;
+    box-shadow: 3px 3px 18px;
+    font-size: 16px;
+}
+.footer_div
+{
+    margin-bottom: 50px;
+
+}
+.footer_div h4
+{
+    color:royalblue;
+    background-color:ghostwhite;
+    border-radius: 10px;
+    box-shadow: 5px 5px 18px white;
+    padding: 5px;
+}
+.footer_div img
+{
+    width: 75px;
+}
+.copy-right-footer
+{
+    position: fixed;
+    color:aqua;
+    bottom: 0;
+    width: 100%;
+    background: white;
+    line-height: 3;
+    text-align: center;  
+}
